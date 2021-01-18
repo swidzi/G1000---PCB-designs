@@ -5,6 +5,10 @@ This repository contains Eagle files for the PCB designed for G1000. All PCBs ar
 Board design can be changed at anytime.
 Boards are designed to be interconnected - if used separately they will probably not work.
 
-# PCB interconnection chart
+# G1000 PFD/MFD PCB interconnection chart
 
 ![Flowchart](/docs/G1000%20connection%20chart.png?)
+
+# G1000 Audio PanelPCB interconnection chart
+
+![Flowchart](/docs/Audio Board G1000.png?)
