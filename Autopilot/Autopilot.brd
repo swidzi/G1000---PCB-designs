@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.25" unitdist="mm" unit="mm" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
+<grid distance="0.25" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -51,12 +51,12 @@
 <layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
 <layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
-<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
-<layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="no" active="no"/>
@@ -75,15 +75,15 @@
 <plain>
 <wire x1="2" y1="0" x2="32" y2="0" width="0" layer="20"/>
 <wire x1="34" y1="2" x2="34" y2="79" width="0" layer="20"/>
-<hole x="2.5" y="2.5" drill="2"/>
-<hole x="31.5" y="2.5" drill="2"/>
+<hole x="2.5" y="2" drill="2.05"/>
+<hole x="31.5" y="2" drill="2.05"/>
 <dimension x1="0" y1="-6" x2="34" y2="-6" x3="17" y3="113.5" textsize="1.778" layer="47" dtype="diameter"/>
 <dimension x1="0" y1="-4.5" x2="2.5" y2="-4.5" x3="1.25" y3="147.25" textsize="1.778" layer="47" dtype="diameter"/>
 <dimension x1="40" y1="0" x2="40" y2="81" x3="-8.498221875" y3="40.5" textsize="1.778" layer="47"/>
 <dimension x1="41.25" y1="0" x2="41.25" y2="2.5" x3="-10.75" y3="1.25" textsize="1.778" layer="47"/>
 <dimension x1="34" y1="-6.75" x2="31.5" y2="-6.75" x3="32.75" y3="132" textsize="1.778" layer="47"/>
-<hole x="2.5" y="79" drill="2"/>
-<hole x="31.5" y="79" drill="2"/>
+<hole x="2.5" y="79" drill="2.05"/>
+<hole x="31.5" y="79" drill="2.05"/>
 <dimension x1="42.25" y1="81" x2="42.25" y2="79" x3="-9.75" y3="80" textsize="1.778" layer="47"/>
 <wire x1="17" y1="-8" x2="17" y2="100.75" width="0.1524" layer="47"/>
 <wire x1="17" y1="100.75" x2="18.25" y2="101.75" width="0.1524" layer="47"/>

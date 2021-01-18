@@ -81,15 +81,15 @@
 <dimension x1="17.5" y1="-4.5" x2="25.5" y2="-4.5" x3="21.5" y3="65.5" textsize="1.778" layer="47"/>
 <dimension x1="35.5" y1="0" x2="35.5" y2="4" x3="-8" y3="2" textsize="1.778" layer="47"/>
 <dimension x1="0" y1="-1.5" x2="3" y2="-1.5" x3="1.5" y3="13" textsize="1.778" layer="47"/>
-<hole x="3" y="4" drill="2"/>
-<hole x="32" y="4" drill="2"/>
+<hole x="3" y="4" drill="2.05"/>
+<hole x="32" y="4" drill="2.05"/>
 <dimension x1="36.5" y1="4" x2="36.5" y2="10" x3="-1.5" y3="7" textsize="1.778" layer="47"/>
 <dimension x1="41.5" y1="34" x2="41.5" y2="50" x3="-8.5" y3="42" textsize="1.778" layer="47"/>
 <dimension x1="39" y1="10" x2="39" y2="22" x3="-9.5" y3="16" textsize="1.778" layer="47"/>
 <dimension x1="41" y1="22" x2="41" y2="34" x3="-6" y3="28" textsize="1.778" layer="47"/>
 <dimension x1="45" y1="50" x2="45" y2="46" x3="-5.5" y3="48" textsize="1.778" layer="47"/>
-<hole x="3" y="46" drill="2"/>
-<hole x="32" y="46" drill="2"/>
+<hole x="3" y="46" drill="2.05"/>
+<hole x="32" y="46" drill="2.05"/>
 <wire x1="2.5" y1="0" x2="0" y2="2.5" width="0.1016" layer="20" curve="-90"/>
 <wire x1="35" y1="2.5" x2="32.5" y2="0" width="0.1016" layer="20" curve="-90"/>
 <wire x1="32.5" y1="50" x2="35" y2="47.5" width="0.1016" layer="20" curve="-90"/>
