@@ -11,4 +11,4 @@ Boards are designed to be interconnected - if used separately they will probably
 
 # G1000 Audio PanelPCB interconnection chart
 
-![Flowchart](/docs/Audio Board G1000.png?)
+![Flowchart](/docs/Audio%20Board%20G1000.png?)
